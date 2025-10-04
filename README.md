@@ -2,14 +2,15 @@
 
 This project demonstrates how to clean and analyze raw advertising data from CSV files, and then transform it into an interactive business intelligence dashboard using **Power BI**.  
 
-The goal is to provide marketing managers with actionable insights such as campaign performance, ROI, CTR, CPA, and overall sales trends.  
+The goal is to provide marketing managers with actionable insights such as campaign performance, CTR, Total Clicks, per hour data, etc.  
 
 ---
 
 ## 📂 Project Structure
-├── GoogleAds_Sales_Raw.csv # Original raw dataset
-├── GoogleAds_Sales_Cleaned.csv # Final cleaned dataset (ready for BI)
-├── data_cleaning.ipynb # Jupyter Notebook for cleaning & preprocessing
+├── Ad_Click_prediciton_Uncleaned.csv # Original raw dataset
+├── Ad_Click_prediciton_Cleaned.csv # Final cleaned dataset (ready for BI)
+├── Marketing_Campaign_Analysis.ipynb # Jupyter Notebook for cleaning & preprocessing
+├── Marketing_Campaign_Analysis.pbix # Power BI for interactive dashboard
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
@@ -19,7 +20,7 @@ The goal is to provide marketing managers with actionable insights such as campa
 ---
 
 ## 🛠️ Tools & Technologies
-- **Python (Pandas, NumPy, Matplotlib)** → Data cleaning, preprocessing & visualization  
+- **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)** → Data cleaning, preprocessing & visualization  
 - **Jupyter Notebook** → Interactive data analysis  
 - **Power BI** → Dashboard design and visualization  
 - **GitHub** → Version control and project sharing  
