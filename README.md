@@ -1,8 +1,9 @@
 # Marketing Campaign Dashboard
 
-This project demonstrates how to clean and analyze raw advertising data from CSV files, and then transform it into an interactive business intelligence dashboard using **Power BI**.  
+This project focuses on analyzing and predicting user ad clicks to uncover actionable marketing insights.  
+It involves **data cleaning, exploratory data analysis (EDA), and interactive dashboard creation** to understand user behavior, campaign performance, and engagement patterns.
 
-The goal is to provide marketing managers with actionable insights such as campaign performance, CTR, Total Clicks, per hour data, etc.  
+The goal is to build a data-driven foundation for improving ad targeting and optimizing campaign strategies.
 
 ---
 
